@@ -1,7 +1,7 @@
 
 <template>
   <div>
-    <h1>1. Data Binding</h1>
+    <h2>1. Data Binding</h2>
    <div class="container mt-5">
     <div class="card p-4 shadow-sm">
       <h4 class="mb-3">Enter Your Name</h4>

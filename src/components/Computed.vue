@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-xl font-semibold my-5">2. Computed</h1>
+    <h2 class="text-xl font-semibold my-5">2. Computed</h2>
      <div class="container mt-5">
     <div class="card shadow-sm p-4">
       <h4 class="mb-3">Total Price Calculator</h4>
